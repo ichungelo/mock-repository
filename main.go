@@ -77,4 +77,7 @@ func main() {
 
 	//! TRIANGLE HOLE
 	mock.TriangleHole(5)
+
+	//! ISOSCELES TRIANGLE
+	mock.IsoscelesTriangle(5)
 }
