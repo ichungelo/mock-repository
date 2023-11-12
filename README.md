@@ -382,3 +382,27 @@ buat pattern segitiga 2
 ```
 
 ---
+
+## 19. ISOSCELES TRIANGLE
+
+### SOAL
+
+buat pattern segitiga sama kaki
+
+### CONTOH
+
+#### Input
+
+- l = 5
+
+#### Output
+
+```
+    #
+   ###
+  #####
+ #######
+#########
+```
+
+---
